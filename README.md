@@ -1,6 +1,11 @@
 # Hi 👋, I'm Richie Ippoliti
 
+<div align="center">
+
 ## Software Engineer from Long Island, NY
+## Rising Junior at Cornell University
+
+</div>
 
 - 👨‍💻 Learn more about me at [richieippoliti.co](https://richieippoliti.co)
 
