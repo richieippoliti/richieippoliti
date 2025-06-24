@@ -2,8 +2,8 @@
 
 <div align="center">
 
-## Software Engineer from Long Island, NY
-## Rising Junior at Cornell University
+**Software Engineer from Long Island, NY**  
+<span style="color: red;">**Rising Junior at Cornell University**</span>
 
 </div>
 
@@ -23,5 +23,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
