@@ -2,8 +2,8 @@
 
 <div align="center">
 
-### Software Engineer from Long Island, NY  
-### <span style="color: red;">Rising Junior at Cornell University College of Engineering</span>
+### 💻 Software Engineer from Long Island, NY  
+### <span style="color: red;">📚 Rising Junior at Cornell University College of Engineering</span>
 
 </div>
 
