@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name Here]
+# Hi 👋, I'm Richie Ippoliti
 
 <div align="center">
  
